@@ -1,3 +1,0 @@
-Matias Garcia Silva, 203, 202373599-k, archivo de pila, funciones reverso, juntar, separar , stringizar y recortar con sus funciones de complemento
-Sergio Montero,202173520-8, 203, funciones agregar, limpiar, mostrar con sus complementos, el main para que puediera leer el archivo y según lo que este en el archivo
-muestre lo correspondiente y las funciones involucradas fuera del tda eliminar, recorta, insertar, extraerNumeros.
